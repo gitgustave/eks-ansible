@@ -1,1 +1,4 @@
 *.keys
+eks-cluster-role/defaults/*.keys
+**/eks-cluster-role/*.keys
+
